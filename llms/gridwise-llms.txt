@@ -1,0 +1,21 @@
+# Gridwise
+
+> Gridwise is an earnings-tracking and optimization platform for rideshare and delivery gig workers (Uber, Lyft, DoorDash, Grubhub, Instacart, Amazon Flex), paired with Gridwise Analytics — a B2B mobility-data business that turns millions of anonymized driver location, trip, and earnings records into industry benchmarking, KPI, and market-intelligence products. Gridwise does not currently publish a public developer API; the surfaces below are its consumer app, data product, and public policy/support pages.
+
+## Products
+- [Gridwise driver app](https://gridwise.io/): Mileage, earnings, and performance tracking across gig platforms for drivers.
+- [Gridwise Analytics](https://gridwise.io/analytics): B2B mobility-data product — Gridwise Reports (aggregated weekly metrics), record-level trip data, and consumer/driver surveys for gig platforms, financial services, retail/merchants, and AV fleets.
+- [Gridwise Analytics — contact / demo](https://gridwise.io/analytics/contact): Request a demo or data sample.
+
+## Docs & Support
+- [Help Center](https://help.gridwise.io/hc/en-us): Support articles and community.
+- [Blog](https://gridwise.io/blog): Gig-economy earnings guides and mobility research.
+
+## Policies
+- [Privacy Policy](https://gridwise.io/privacypolicy)
+- [Terms of Service](https://gridwise.io/termsofservice)
+- [Data Use Policy](https://gridwise.io/data-use)
+
+## Notes
+- No public developer API, OpenAPI/AsyncAPI spec, SDK, MCP server, or /.well-known discovery surface was found (all /.well-known/ probes returned 404 as of 2026-07-19).
+- Data is delivered as reports, record-level datasets, and surveys via commercial engagement, not a self-serve API.
